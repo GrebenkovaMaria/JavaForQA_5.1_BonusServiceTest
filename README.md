@@ -9,8 +9,8 @@
 4. проверка расчета бонуса сверх лимита для незарегистированного клиента; 
 
 ## инструкция
-1. сделать fork [репозитория]()
-2. в IntelliJ IDEA открыть проект с файлами [CreditPaymentService]() и [Main]()
+1. сделать fork [репозитория](https://github.com/GrebenkovaMaria/JavaForQA_5.1_BonusServiceTest)
+2. в IntelliJ IDEA открыть проект с файлами [BonusServiceTest](https://github.com/GrebenkovaMaria/JavaForQA_5.1_BonusServiceTest/blob/master/src/test/java/BonusServiceTest.java) 
 3. запустить тесты
 
 
